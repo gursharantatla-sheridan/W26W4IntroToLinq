@@ -108,6 +108,8 @@ namespace W26W4IntroToLinq
 
 
             // ConsoleTables example
+            // https://github.com/khalidabuhakmeh/ConsoleTables
+
             ConsoleTable tbl = new ConsoleTable("First Name", "Last Name", "Salary");
 
             foreach (var e in employees)
